@@ -1,2 +1,16 @@
 # mealkitdelivery_database
-Meal kit storage and delivery database designed using Access and mySQL Workbench. 
+
+Meal kit delivery database designed using Access and mySQL Workbench. 
+
+What does it track?
+
+Customers (name, phone, address ...)
+Orders (date, location, status ...)
+Staff (name, phone, address ...)
+Pay (location, hour ...)
+Recipes (time, calories, steps ...)
+Measurement (productId, measurements ...)
+Location (address, phone ...)
+Storage (quantity ...)
+Product (unit, date, name ...)
+
